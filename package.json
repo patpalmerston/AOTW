@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/patpalmerston/AOTW/issues"
   },
-  "homepage": "https://github.com/patpalmerston/AOTW#readme"
+  "homepage": "https://github.com/patpalmerston/AOTW#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "knex": "^0.16.5",
+    "sqlite3": "^4.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
 }
